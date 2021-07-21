@@ -1,6 +1,6 @@
 body{font-family: 'Poppins', sans-serif; margin: 0px;}
 .name-color{color: orange;}
-.all-part{width: 50%; margin-left: 80px; padding-left: 30px;}
+.all-part{width: 50%; margin-left: 80px;margin-bottom: 30px; }
 .all-part img{width: 80%;}
 .first-sec{display:flex;}
 .buton{text-decoration: none; color: white;
@@ -13,5 +13,13 @@ margin-top: 50px;
 .first-sec{background-image:url(image/top-banner.png);
     background-repeat: no-repeat;
 
+}
+.dream-big{display:flex; }
+.part{width: 50%; margin-left: 80px; }
+.part img{width: 80%;}
+
+.dream-big{background-image: url(image/projects.png);
+    background-repeat: no-repeat;
+    background-position: right;
 
 }
